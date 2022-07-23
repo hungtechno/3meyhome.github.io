@@ -1,0 +1,71 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="crystal-vitriketnoi.com" resolutions="1x" timestamp="1658441891769">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="3-3-muiongdoi.css" crc="21104403" ref="3-3-muiongdoi"/>
+    <file name="3-3-baisao.css" crc="3791685723" ref="3-3-baisao"/>
+    <file name="3-3-baikhem.css" crc="4094229923" ref="3-3-baikhem"/>
+    <file name="3-3-captreo-honthom.css" crc="213594438" ref="3-3-captreo-honthom"/>
+    <file name="3-3-sanbay.css" crc="4127798871" ref="3-3-sanbay"/>
+    <file name="3-3-thitranduongdong.css" crc="3796468156" ref="3-3-thitranduongdong"/>
+    <file name="index.css" crc="378785919" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:3-3-baikhem:3-3-baisao:3-3-captreo-honthom:3-3-muiongdoi:3-3-sanbay:3-3-thitranduongdong"/>
+    <file name="museutils.js" crc="340535759" ref="index:3-3-baikhem:3-3-baisao:3-3-captreo-honthom:3-3-muiongdoi:3-3-sanbay:3-3-thitranduongdong"/>
+    <file name="whatinput.js" crc="86476730" ref="index:3-3-baikhem:3-3-baisao:3-3-captreo-honthom:3-3-muiongdoi:3-3-sanbay:3-3-thitranduongdong"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:3-3-baikhem:3-3-baisao:3-3-captreo-honthom:3-3-muiongdoi:3-3-sanbay:3-3-thitranduongdong"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:3-3-baikhem:3-3-baisao:3-3-captreo-honthom:3-3-muiongdoi:3-3-sanbay:3-3-thitranduongdong"/>
+    <file name="require.js" crc="7928878" ref="index:3-3-baikhem:3-3-baisao:3-3-captreo-honthom:3-3-muiongdoi:3-3-sanbay:3-3-thitranduongdong"/>
+  </folder>
+  <folder name="images">
+    <file name="3-2-tongquanvitri.jpg" crc="4274464399" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-3-baikhem.jpg" crc="3849785230" seo="true" ref="3-3-baikhem">
+      <caption webpage="3-3-baikhem" alt=""/>
+    </file>
+    <file name="3-3-baikhem2.jpg" crc="345609976" seo="true" ref="3-3-baikhem">
+      <caption webpage="3-3-baikhem" alt=""/>
+    </file>
+    <file name="3-3-baisao1.jpg" crc="3904939718" seo="true" ref="3-3-baisao">
+      <caption webpage="3-3-baisao" alt=""/>
+    </file>
+    <file name="3-3-baisao2.jpg" crc="97900849" seo="true" ref="3-3-baisao">
+      <caption webpage="3-3-baisao" alt=""/>
+    </file>
+    <file name="3-3-captrephonthom.jpg" crc="143935147" seo="true" ref="3-3-captreo-honthom">
+      <caption webpage="3-3-captreo-honthom" alt=""/>
+    </file>
+    <file name="3-3-captrephonthom2.jpg" crc="94081177" seo="true" ref="3-3-captreo-honthom">
+      <caption webpage="3-3-captreo-honthom" alt=""/>
+    </file>
+    <file name="3-3-captrephonthom3.jpg" crc="4156661411" seo="true" ref="3-3-captreo-honthom">
+      <caption webpage="3-3-captreo-honthom" alt=""/>
+    </file>
+    <file name="3-3-muiongdoi.jpg" crc="397211743" seo="true" ref="3-3-muiongdoi">
+      <caption webpage="3-3-muiongdoi" alt=""/>
+    </file>
+    <file name="3-3-muiongdoi2.jpg" crc="4266041107" seo="true" ref="3-3-muiongdoi">
+      <caption webpage="3-3-muiongdoi" alt=""/>
+    </file>
+    <file name="3-3-sanbay1.jpg" crc="4104212047" seo="true" ref="3-3-sanbay">
+      <caption webpage="3-3-sanbay" alt=""/>
+    </file>
+    <file name="3-3-sanbay2.jpg" crc="415102664" seo="true" ref="3-3-sanbay">
+      <caption webpage="3-3-sanbay" alt=""/>
+    </file>
+    <file name="3-3-thitranduongdong1.jpg" crc="68962585" seo="true" ref="3-3-thitranduongdong">
+      <caption webpage="3-3-thitranduongdong" alt=""/>
+    </file>
+    <file name="3-3-thitranduongdong2.jpg" crc="352042155" seo="true" ref="3-3-thitranduongdong">
+      <caption webpage="3-3-thitranduongdong" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4231111652" seo="true" mt="1658441146501" redirect="true"/>
+  <file name="3-3-baikhem.html" crc="85050507" seo="true" mt="1658440079377" redirect="true"/>
+  <file name="3-3-baisao.html" crc="3895528509" seo="true" mt="1658440321079" redirect="true"/>
+  <file name="3-3-captreo-honthom.html" crc="4257314692" seo="true" mt="1658440609809" redirect="true"/>
+  <file name="3-3-muiongdoi.html" crc="91102885" seo="true" mt="1658440765222" redirect="true"/>
+  <file name="3-3-sanbay.html" crc="3802132582" seo="true" mt="1658440985243" redirect="true"/>
+  <file name="3-3-thitranduongdong.html" crc="4108129257" seo="true" mt="1658441128308" redirect="true"/>
+</manifest>

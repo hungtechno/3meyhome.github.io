@@ -1,0 +1,128 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="crystal-tongquanmeyhome.com" resolutions="1x" timestamp="1658442047075">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="1-9-duong-venbien.css" crc="196481075" ref="1-9-duong-venbien"/>
+    <file name="1-9-dailo-dt975.css" crc="438712523" ref="1-9-dailo-dt975"/>
+    <file name="1-6-thongtin-tongquan.css" crc="4038963514" ref="1-6-thongtin-tongquan"/>
+    <file name="1-7-thongtin-gd1.css" crc="480422224" ref="1-7-thongtin-gd1"/>
+    <file name="1-8-tienich-apricotb.css" crc="3839661462" ref="1-8-tienich-apricotb"/>
+    <file name="1-8-tienich-riverpark-b.css" crc="3784869078" ref="1-8-tienich-riverpark-b"/>
+    <file name="1-8-tienich-riverpark-a.css" crc="282567027" ref="1-8-tienich-riverpark-a"/>
+    <file name="1-9-duong-tydo.css" crc="439759108" ref="1-9-duong-tydo"/>
+    <file name="1-8-congvien-oceanpark.css" crc="116627992" ref="1-8-congvien-oceanpark"/>
+    <file name="1-8-congvien-lakepark.css" crc="4030975914" ref="1-8-congvien-lakepark"/>
+    <file name="1-9-duong-hoasu.css" crc="4097637122" ref="1-9-duong-hoasu"/>
+    <file name="1-8-tienich-aqua.css" crc="91638413" ref="1-8-tienich-aqua"/>
+    <file name="1-8-tienich-apricota.css" crc="3821359440" ref="1-8-tienich-apricota"/>
+    <file name="1-8-tienich-rosada.css" crc="186969963" ref="1-8-tienich-rosada"/>
+    <file name="1-9-dailo-anhsao.css" crc="4026288058" ref="1-9-dailo-anhsao"/>
+    <file name="1-7-thongtin-gd2.css" crc="3990357688" ref="1-7-thongtin-gd2"/>
+    <file name="1-8-congvien-riverpark.css" crc="4014600855" ref="1-8-congvien-riverpark"/>
+    <file name="1-8-tienich-cluboceanpark.css" crc="282494406" ref="1-8-tienich-cluboceanpark"/>
+    <file name="1-9-dailo-hoanghon.css" crc="485609443" ref="1-9-dailo-hoanghon"/>
+    <file name="1-8-tienich-coral.css" crc="4282449558" ref="1-8-tienich-coral"/>
+    <file name="1-9-dailo-binhminh.css" crc="3812793689" ref="1-9-dailo-binhminh"/>
+    <file name="index.css" crc="4206476153" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:1-6-thongtin-tongquan:1-7-thongtin-gd1:1-7-thongtin-gd2:1-8-tienich-apricota:1-8-tienich-apricotb:1-8-tienich-aqua:1-8-tienich-coral:1-8-tienich-cluboceanpark:1-8-tienich-riverpark-a:1-8-tienich-riverpark-b:1-8-tienich-rosada:1-8-congvien-lakepark:1-8-congvien-oceanpark:1-8-congvien-riverpark:1-9-dailo-anhsao:1-9-dailo-binhminh:1-9-dailo-hoanghon:1-9-dailo-dt975:1-9-duong-hoasu:1-9-duong-venbien:1-9-duong-tydo"/>
+    <file name="museutils.js" crc="340535759" ref="index:1-6-thongtin-tongquan:1-7-thongtin-gd1:1-7-thongtin-gd2:1-8-tienich-apricota:1-8-tienich-apricotb:1-8-tienich-aqua:1-8-tienich-coral:1-8-tienich-cluboceanpark:1-8-tienich-riverpark-a:1-8-tienich-riverpark-b:1-8-tienich-rosada:1-8-congvien-lakepark:1-8-congvien-oceanpark:1-8-congvien-riverpark:1-9-dailo-anhsao:1-9-dailo-binhminh:1-9-dailo-hoanghon:1-9-dailo-dt975:1-9-duong-hoasu:1-9-duong-venbien:1-9-duong-tydo"/>
+    <file name="whatinput.js" crc="86476730" ref="index:1-6-thongtin-tongquan:1-7-thongtin-gd1:1-7-thongtin-gd2:1-8-tienich-apricota:1-8-tienich-apricotb:1-8-tienich-aqua:1-8-tienich-coral:1-8-tienich-cluboceanpark:1-8-tienich-riverpark-a:1-8-tienich-riverpark-b:1-8-tienich-rosada:1-8-congvien-lakepark:1-8-congvien-oceanpark:1-8-congvien-riverpark:1-9-dailo-anhsao:1-9-dailo-binhminh:1-9-dailo-hoanghon:1-9-dailo-dt975:1-9-duong-hoasu:1-9-duong-venbien:1-9-duong-tydo"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:1-6-thongtin-tongquan:1-7-thongtin-gd1:1-7-thongtin-gd2:1-8-tienich-apricota:1-8-tienich-apricotb:1-8-tienich-aqua:1-8-tienich-coral:1-8-tienich-cluboceanpark:1-8-tienich-riverpark-a:1-8-tienich-riverpark-b:1-8-tienich-rosada:1-8-congvien-lakepark:1-8-congvien-oceanpark:1-8-congvien-riverpark:1-9-dailo-anhsao:1-9-dailo-binhminh:1-9-dailo-hoanghon:1-9-dailo-dt975:1-9-duong-hoasu:1-9-duong-venbien:1-9-duong-tydo"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:1-6-thongtin-tongquan:1-7-thongtin-gd1:1-7-thongtin-gd2:1-8-tienich-apricota:1-8-tienich-apricotb:1-8-tienich-aqua:1-8-tienich-coral:1-8-tienich-cluboceanpark:1-8-tienich-riverpark-a:1-8-tienich-riverpark-b:1-8-tienich-rosada:1-8-congvien-lakepark:1-8-congvien-oceanpark:1-8-congvien-riverpark:1-9-dailo-anhsao:1-9-dailo-binhminh:1-9-dailo-hoanghon:1-9-dailo-dt975:1-9-duong-hoasu:1-9-duong-venbien:1-9-duong-tydo"/>
+    <file name="require.js" crc="7928878" ref="index:1-6-thongtin-tongquan:1-7-thongtin-gd1:1-7-thongtin-gd2:1-8-tienich-apricota:1-8-tienich-apricotb:1-8-tienich-aqua:1-8-tienich-coral:1-8-tienich-cluboceanpark:1-8-tienich-riverpark-a:1-8-tienich-riverpark-b:1-8-tienich-rosada:1-8-congvien-lakepark:1-8-congvien-oceanpark:1-8-congvien-riverpark:1-9-dailo-anhsao:1-9-dailo-binhminh:1-9-dailo-hoanghon:1-9-dailo-dt975:1-9-duong-hoasu:1-9-duong-venbien:1-9-duong-tydo"/>
+  </folder>
+  <folder name="images">
+    <file name="anh-hotline.jpg" crc="224438263" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-6-hinhtongquan.jpg" crc="4264909296" seo="true" ref="1-6-thongtin-tongquan">
+      <caption webpage="1-6-thongtin-tongquan" alt=""/>
+    </file>
+    <file name="1-6-hinhtongquan-2.jpg" crc="4177209307" seo="true" ref="1-6-thongtin-tongquan">
+      <caption webpage="1-6-thongtin-tongquan" alt=""/>
+    </file>
+    <file name="1-6-hinhtongquan-3.jpg" crc="4237702329" seo="true" ref="1-6-thongtin-tongquan">
+      <caption webpage="1-6-thongtin-tongquan" alt=""/>
+    </file>
+    <file name="1-6-hinhtongquan-4.jpg" crc="127134395" seo="true" ref="1-6-thongtin-tongquan">
+      <caption webpage="1-6-thongtin-tongquan" alt=""/>
+    </file>
+    <file name="1-6-hinhtongquan-5.jpg" crc="3875412930" seo="true" ref="1-6-thongtin-tongquan">
+      <caption webpage="1-6-thongtin-tongquan" alt=""/>
+    </file>
+    <file name="1-6-hinhtongquan-6.jpg" crc="391915316" seo="true" ref="1-6-thongtin-tongquan">
+      <caption webpage="1-6-thongtin-tongquan" alt=""/>
+    </file>
+    <file name="1-6-hinhtongquan-7.jpg" crc="457042909" seo="true" ref="1-6-thongtin-tongquan">
+      <caption webpage="1-6-thongtin-tongquan" alt=""/>
+    </file>
+    <file name="1-6-hinhtongquan-8.jpg" crc="4193747121" seo="true" ref="1-6-thongtin-tongquan">
+      <caption webpage="1-6-thongtin-tongquan" alt=""/>
+    </file>
+    <file name="1-6-hinhtongquan-9.jpg" crc="19675541" seo="true" ref="1-6-thongtin-tongquan">
+      <caption webpage="1-6-thongtin-tongquan" alt=""/>
+    </file>
+    <file name="1-7-gd1.jpg" crc="294213093" seo="true" ref="1-7-thongtin-gd1">
+      <caption webpage="1-7-thongtin-gd1" alt=""/>
+    </file>
+    <file name="1-7-gd2.jpg" crc="245811190" seo="true" ref="1-7-thongtin-gd2">
+      <caption webpage="1-7-thongtin-gd2" alt=""/>
+    </file>
+    <file name="1-8-lakepark.jpg" crc="4144319626" seo="true" ref="1-8-congvien-lakepark">
+      <caption webpage="1-8-congvien-lakepark" alt=""/>
+    </file>
+    <file name="1-8-oceanparkpark.jpg" crc="3932971003" seo="true" ref="1-8-congvien-oceanpark">
+      <caption webpage="1-8-congvien-oceanpark" alt=""/>
+    </file>
+    <file name="1-8-riverpark.jpg" crc="337736789" seo="true" ref="1-8-congvien-riverpark">
+      <caption webpage="1-8-congvien-riverpark" alt=""/>
+    </file>
+    <file name="1-9dailoanhsao.jpg" crc="4139648433" seo="true" ref="1-9-dailo-anhsao">
+      <caption webpage="1-9-dailo-anhsao" alt=""/>
+    </file>
+    <file name="1-9dailobinhminh.jpg" crc="4149485518" seo="true" ref="1-9-dailo-binhminh">
+      <caption webpage="1-9-dailo-binhminh" alt=""/>
+    </file>
+    <file name="1-9dailohoanghon.jpg" crc="531156407" seo="true" ref="1-9-dailo-hoanghon">
+      <caption webpage="1-9-dailo-hoanghon" alt=""/>
+    </file>
+    <file name="1-9-dt975.jpg" crc="4075439718" seo="true" ref="1-9-dailo-dt975">
+      <caption webpage="1-9-dailo-dt975" alt=""/>
+    </file>
+    <file name="1-9-duong-hoasu1.jpg" crc="3930852515" seo="true" ref="1-9-duong-hoasu">
+      <caption webpage="1-9-duong-hoasu" alt=""/>
+    </file>
+    <file name="1-9-duong-hoasu2.jpg" crc="4048495526" seo="true" ref="1-9-duong-hoasu">
+      <caption webpage="1-9-duong-hoasu" alt=""/>
+    </file>
+    <file name="1-9-duong-venbien.jpg" crc="293948959" seo="true" ref="1-9-duong-venbien">
+      <caption webpage="1-9-duong-venbien" alt=""/>
+    </file>
+    <file name="1-9-duong-tydo.jpg" crc="4269414586" seo="true" ref="1-9-duong-tydo">
+      <caption webpage="1-9-duong-tydo" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4286462695" seo="true" mt="1658410467050" redirect="true"/>
+  <file name="1-6-thongtin-tongquan.html" crc="3838609388" seo="true" mt="1658420564029" redirect="true"/>
+  <file name="1-7-thongtin-gd1.html" crc="364145226" seo="true" mt="1658420741102" redirect="true"/>
+  <file name="1-7-thongtin-gd2.html" crc="3860879027" seo="true" mt="1658421112666" redirect="true"/>
+  <file name="1-8-tienich-apricota.html" crc="3869859085" seo="true" mt="1658421529019" redirect="true"/>
+  <file name="1-8-tienich-apricotb.html" crc="450611660" seo="true" mt="1658421538156" redirect="true"/>
+  <file name="1-8-tienich-aqua.html" crc="3912143622" seo="true" mt="1658421604603" redirect="true"/>
+  <file name="1-8-tienich-coral.html" crc="151623668" seo="true" mt="1658421660920" redirect="true"/>
+  <file name="1-8-tienich-cluboceanpark.html" crc="4131910320" seo="true" mt="1658422355753" redirect="true"/>
+  <file name="1-8-tienich-riverpark-a.html" crc="79193104" seo="true" mt="1658421780578" redirect="true"/>
+  <file name="1-8-tienich-riverpark-b.html" crc="3892896841" seo="true" mt="1658421826168" redirect="true"/>
+  <file name="1-8-tienich-rosada.html" crc="3885779210" seo="true" mt="1658421993186" redirect="true"/>
+  <file name="1-8-congvien-lakepark.html" crc="4232905687" seo="true" mt="1658422473875" redirect="true"/>
+  <file name="1-8-congvien-oceanpark.html" crc="465171" seo="true" mt="1658422551545" redirect="true"/>
+  <file name="1-8-congvien-riverpark.html" crc="334986295" seo="true" mt="1658422653994" redirect="true"/>
+  <file name="1-9-dailo-anhsao.html" crc="185205535" seo="true" mt="1658423030491" redirect="true"/>
+  <file name="1-9-dailo-binhminh.html" crc="4247857580" seo="true" mt="1658423105290" redirect="true"/>
+  <file name="1-9-dailo-hoanghon.html" crc="4239617221" seo="true" mt="1658423451817" redirect="true"/>
+  <file name="1-9-dailo-dt975.html" crc="4189310114" seo="true" mt="1658423570519" redirect="true"/>
+  <file name="1-9-duong-hoasu.html" crc="4164418449" seo="true" mt="1658423764192" redirect="true"/>
+  <file name="1-9-duong-venbien.html" crc="337730182" seo="true" mt="1658424073665" redirect="true"/>
+  <file name="1-9-duong-tydo.html" crc="3932574844" seo="true" mt="1658424175720" redirect="true"/>
+</manifest>
